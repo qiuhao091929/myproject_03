@@ -58,5 +58,14 @@
  * 
  * git clone //将远程仓库克隆到本地
  * 
+ * git branch //查看分支
+ * 
+ * git branch  xxx //创建新分支
+ * 
+ * git checkout  xxx //切换到指定分支进行开发
+ * 
+ * git checkout -b xxx //先创建新分支 并立即切换到新分支上
+ * 
+
 
  */
